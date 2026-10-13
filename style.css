@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(3, 128, 117);
+    padding: 10px;
+    
+}
+h1{
+    color: red;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    font-size: 16px;
+    font-family: Arial;
+
+}
+li{
+    margin:auto ;
+}

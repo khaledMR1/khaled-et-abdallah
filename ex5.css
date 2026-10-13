@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(238, 177, 8);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.carte{
+    width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px black;
+    background-color: rgb(146, 83, 83);
+    position: relative;
+    margin: auto;
+    
+}
+img{
+    width: 100px;
+    object-fit: cover;
+    border-radius: 70px;
+    box-shadow: 0 8px 20px black;
+    
+}
+img:hover{
+    transform: scale(1.05);
+}
+.badge{
+    position: absolute;
+}
